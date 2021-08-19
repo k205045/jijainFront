@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/k205045/jijainFront/issues"
   },
-  "homepage": "https://github.com/k205045/jijainFront#readme"
+  "homepage": "https://github.com/k205045/jijainFront#readme",
+  "dependencies": {
+    "yarm": "^0.4.0"
+  }
 }
